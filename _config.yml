@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Lin Wang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
@@ -282,7 +282,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _Team
   - scope:
       path: ""
       type: talks
